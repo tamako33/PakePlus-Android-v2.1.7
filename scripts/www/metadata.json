@@ -1,0 +1,5 @@
+{
+  "name": "飞行日志 - 机长版",
+  "description": "专业的飞行员日志应用，追踪飞行时长、连飞记录，支持 AI 飞行数据分析。",
+  "requestFramePermissions": []
+}
